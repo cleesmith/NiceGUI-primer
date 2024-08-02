@@ -15,3 +15,7 @@ conda activate NiceGUI-primer
 
 2. collect all of the scrapable urls 
 	- python -B 1_get_all_urls.py
+
+3. scrape the text from all urls into a text file
+
+4. scrape the text from all urls into a PDF file
