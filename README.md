@@ -9,14 +9,16 @@ conda activate NiceGUI-primer
 
 1. run nicegui website at localhost:8080 to avoid bothering their server:
 	```sh 
-		git clone nicegui
+	git clone nicegui
 	```
+
 	```sh 
-	  	pip install itsdangerous prometheus_client isort docutils pandas plotly pyecharts matplotlib requests dnspython
+	pip install itsdangerous prometheus_client isort docutils pandas plotly pyecharts matplotlib requests dnspython
 	```
 	  ... maybe all of that is not needed, but it works
+
 	```sh 
-		python -B main.py
+	python -B main.py
 	```
 
 2. collect all of the scrapable urls 
