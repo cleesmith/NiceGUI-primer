@@ -7,7 +7,7 @@ conda activate NiceGUI-primer
 
 ## Steps to scrape NiceGUI documentation
 
-1. run nicegui website at localhost:8080 to avoid bothering their server:
+1. run nicegui website at localhost:8080 to avoid the nicegui.io server:
 	```sh 
 	git clone nicegui
 	```
@@ -15,13 +15,13 @@ conda activate NiceGUI-primer
 	```sh 
 	pip install itsdangerous prometheus_client isort docutils pandas plotly pyecharts matplotlib requests dnspython
 	```
-	  ... maybe all of that is not needed, but it works
+	  ... maybe all of that is not needed, but it works.
 
 	```sh 
 	python -B main.py
 	```
 
-2. collect all of the scrapable urls 
+2. collect all of the scrapable urls using Playwright with Chromium
 	```sh
 	pip install playwright
 	```
