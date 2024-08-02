@@ -14,7 +14,9 @@ conda activate NiceGUI-primer
 	- python -B main.py
 
 2. collect all of the scrapable urls 
-	- python -B 1_get_all_urls.py
+	'''pip install playwright'''
+
+	'''python -B 1_get_all_urls.py'''
 
 3. scrape the text from all urls into a text file
 
