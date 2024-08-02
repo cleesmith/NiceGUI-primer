@@ -2,6 +2,8 @@ from collections import deque
 from urllib.parse import urljoin, urlparse
 from playwright.sync_api import sync_playwright
 
+base_url = "http://localhost:8080/documentation/"
+
 def gather_urls(page, base_url, visited):
     # print(f"Gathering URLs from: {page.url}")
     elements = page.query_selector_all("a")
@@ -23,7 +25,6 @@ def gather_urls(page, base_url, visited):
     return urls
 
 def get_all_urls():
-    base_url = "http://localhost:8080/documentation/"
     visited = set()  # Using set for visited to efficiently check for membership
     all_urls = []    # Using list to maintain order of all URLs found
     to_visit = deque([base_url])  # Using deque for efficient stack operations
@@ -31,7 +32,7 @@ def get_all_urls():
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page()
-        page.set_default_navigation_timeout(10000)
+        # page.set_default_navigation_timeout(10000)
 
         while to_visit:
             current_url = to_visit.pop()  # Efficient pop from the right side (stack behavior)
@@ -73,5 +74,6 @@ if __name__ == "__main__":
         print(url)
 
     with open("urls_to_crawl.txt", "w") as file:
+        file.write(base_url + "\n")
         for url in to_crawl:
             file.write(url + "\n")
