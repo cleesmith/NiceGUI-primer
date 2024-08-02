@@ -15,14 +15,16 @@ conda activate NiceGUI-primer
 	  	pip install itsdangerous prometheus_client isort docutils pandas plotly pyecharts matplotlib requests dnspython
 	  ```
 	  ... maybe all of that is not needed, but it works
-	- python -B main.py
+	- ```sh 
+		python -B main.py
+	  ```
 
 2. collect all of the scrapable urls 
 	```sh
 	pip install playwright
 	```
 
-	```python
+	```sh
 	python -B 1_get_all_urls.py
 	```
 
