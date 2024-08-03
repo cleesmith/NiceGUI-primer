@@ -1,3 +1,4 @@
+import time
 from collections import deque
 from urllib.parse import urljoin, urlparse
 from playwright.sync_api import sync_playwright
@@ -39,6 +40,7 @@ def get_all_urls():
             # print(f"\nVisiting: {current_url}")
             if current_url not in visited:
                 page.goto(current_url)
+                time.sleep(0.2)
                 visited.add(current_url)
                 new_urls = gather_urls(page, base_url, visited)
 
@@ -64,16 +66,28 @@ def get_all_urls():
 
 if __name__ == "__main__":
     import time
+
     start_time = time.time()
     to_crawl = get_all_urls()
     overall_time = time.time() - start_time
     print(f"Total crawling time: {overall_time:.2f} seconds")
 
-    print(f"Total URLs found: {len(to_crawl)}")
+    unique_urls = []
+    excluded_urls = {"http://localhost:8080/", "http://localhost:8080/documentation"}
+    mandatory_url = "http://localhost:8080/documentation/"
+
+    # Ensure mandatory_url is at the top of the list
+    unique_urls.append(mandatory_url)
+
     for url in to_crawl:
+        if url not in unique_urls and url not in excluded_urls and url.startswith("http://localhost:8080/documentation/"):
+            unique_urls.append(url)
+
+    print(f"Total URLs found: {len(unique_urls)}")
+    for url in unique_urls:
         print(url)
 
     with open("urls_to_crawl.txt", "w") as file:
-        file.write(base_url + "\n")
-        for url in to_crawl:
+        for url in unique_urls:
             file.write(url + "\n")
+
