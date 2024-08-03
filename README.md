@@ -1,9 +1,10 @@
 # NiceGUI-primer
- The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file.
+The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file.
 
 ```sh
 cd NiceGUI-primer
 ```
+Setup a virtual environment using conda or other:
 ```sh
 conda create -n NiceGUI-primer python=3.10
 ```
