@@ -11,7 +11,7 @@ Further information here:
 ---
 
 
-# Steps to install NiceGUI's documentation website for scraping
+## Steps to install NiceGUI's documentation website for scraping
 
 To avoid bugging the nicegui.io online server, let's run the nicegui documenation website at: \
 http://localhost:8080/ by doing the following:
@@ -54,7 +54,7 @@ python -B main.py
 ---
   
 
-# Steps to install NiceGUI-primer
+## Steps to install NiceGUI-primer
 
 Clone the github repo or download the zip file:
 ```sh
@@ -76,7 +76,7 @@ conda activate NiceGUI-primer
 ---
 
 
-# Steps to scrape NiceGUI documentation
+## Steps to scrape NiceGUI documentation
 
 Collect a list of the scrapable urls using Playwright with Chromium option
 
