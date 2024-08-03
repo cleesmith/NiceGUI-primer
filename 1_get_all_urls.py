@@ -40,7 +40,7 @@ def get_all_urls():
             # print(f"\nVisiting: {current_url}")
             if current_url not in visited:
                 page.goto(current_url)
-                time.sleep(0.2)
+                time.sleep(0.2) # well, FastAPI isn't fast enough ... need LudicrousSpeedAPI
                 visited.add(current_url)
                 new_urls = gather_urls(page, base_url, visited)
 
@@ -90,4 +90,26 @@ if __name__ == "__main__":
     with open("urls_to_crawl.txt", "w") as file:
         for url in unique_urls:
             file.write(url + "\n")
+
+
+# Note: there is access to the registry at:
+#   http://127.0.0.1:8080/static/search_index.json
+# but that's a huge list of urls with anchor links similar to this:
+#   274. Title: ui.scene: 3D Scene
+#        URL: /documentation/scene#3d_scene
+# which means that the huge list has lots of repeated pages with the same info, and so just different 
+# spots on the same page ... which makes using Playwright a better solution (just slower) than:
+# 
+# import httpx
+# url = 'http://localhost:8080/static/search_index.json'
+# response = httpx.get(url)
+# if response.status_code == 200:
+#     data = response.json()
+#     for i, item in enumerate(data, 1):
+#         print(f"{i}. Title: {item['title']}")
+#         print(f"   URL: {item['url']}")
+#         print()
+# else:
+#     print(f"Failed to fetch data. Status code: {response.status_code}")
+
 

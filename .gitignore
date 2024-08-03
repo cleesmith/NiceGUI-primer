@@ -1,2 +1,4 @@
 .DS_Store
 urls_to_crawl.txt
+Terminal*
+static*
