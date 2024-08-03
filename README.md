@@ -8,7 +8,8 @@ Further information here:
 - https://github.com/zauberzeug/nicegui/
 - https://github.com/zauberzeug/nicegui/blob/main/CONTRIBUTING.md#documentation
 
---- \
+---
+
 
 ## Steps to install NiceGUI's documentation website for scraping
 
@@ -50,7 +51,8 @@ Now launch `main.py` in the root directory:
 python -B main.py
 ```
 
---- \
+---
+
 
 ## Steps to install NiceGUI-primer
 
@@ -72,6 +74,7 @@ conda activate NiceGUI-primer
 ```
 
 ---
+
 
 ## Steps to scrape NiceGUI documentation
 
