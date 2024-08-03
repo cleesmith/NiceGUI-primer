@@ -1,4 +1,5 @@
 # NiceGUI-primer
+
 The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file.
 
 Further information here:
@@ -16,6 +17,7 @@ http://localhost:8080/ by doing the following:
 
 > By the way, this was a very thoughtful option for the NiceGUI project to offer, so why not use it.
 
+Clone the github repo or download the zip file:
 ```sh 
 git clone nicegui
 ```
@@ -52,7 +54,7 @@ python -B main.py
 
 ## Steps to install NiceGUI-primer
 
-Clone the repo or download zip file:
+Clone the github repo or download the zip file:
 ```sh
 git clone https://github.com/cleesmith/NiceGUI-primer.git
 ```
@@ -73,10 +75,7 @@ conda activate NiceGUI-primer
 
 ## Steps to scrape NiceGUI documentation
 
-
----
-
-2. Collect a list of the scrapable urls using Playwright with Chromium option
+Collect a list of the scrapable urls using Playwright with Chromium option
 
 	```sh
 	cd NiceGUI-primer
@@ -92,7 +91,7 @@ conda activate NiceGUI-primer
 
 ---
 
-3. Scrape using the list of scrapable urls into a text file
+Scrape using the list of scrapable urls into a text file
 	> also uses Playwright with Chromium option
 
 	```sh
