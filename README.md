@@ -78,7 +78,7 @@ conda activate NiceGUI-primer
 ---
 
 3. Scrape using the list of scrapable urls into a text file
-> also uses Playwright with Chromium option
+	> also uses Playwright with Chromium option
 
 	```sh
 	cd NiceGUI-primer
