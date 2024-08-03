@@ -1,6 +1,11 @@
 # NiceGUI-primer
 The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file.
 
+Clone the repo or download zip:
+```sh
+git clone https://github.com/cleesmith/NiceGUI-primer.git
+```
+
 ```sh
 cd NiceGUI-primer
 ```
@@ -17,6 +22,17 @@ conda activate NiceGUI-primer
 1. Run nicegui website at localhost:8080 to avoid bugging the nicegui.io server:
 	```sh 
 	git clone nicegui
+	```
+	```sh
+	cd nicegui
+	```
+	Setup a virtual environment using conda or:
+	```sh
+	conda create -n nicegui python=3.10
+	```
+	Also, other python may work but I used 3.10.14.
+	```sh
+	conda activate NiceGUI-primer
 	```
 	Perhaps not all of these lib's are not needed, but it works:
 	```sh 
