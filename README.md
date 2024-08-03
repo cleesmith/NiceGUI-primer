@@ -9,7 +9,43 @@ Further information here:
 
 ---
 
-## Steps to install NiceGUI's documentation website for scraping
+## Steps to install NiceGUI's documentation website for later scraping
+
+To avoid bugging the nicegui.io online server, I run the nicegui documenation website at http://localhost:8080/ by doing the following:
+
+> This was a very thoughtful option for the NiceGUI project to offer, so let's use it.
+
+```sh 
+git clone nicegui
+```
+
+```sh
+cd nicegui
+```
+
+Setup a virtual environment using conda or something:
+
+```sh
+conda create -n nicegui python=3.10
+```
+
+```sh
+conda activate nicegui
+```
+
+Perhaps not all of these lib's are not needed, but it works:
+
+```sh 
+pip install itsdangerous prometheus_client isort docutils pandas plotly pyecharts matplotlib requests dnspython
+```
+
+After cloning and pip installs for the NiceGUI repository
+
+Now launch `main.py` in the root directory:
+
+```sh 
+python -B main.py
+```
 
 ---
 
@@ -36,38 +72,6 @@ conda activate NiceGUI-primer
 
 ## Steps to scrape NiceGUI documentation
 
-1. To avoid bugging the nicegui.io online server, I run the nicegui documenation website at http://localhost:8080/ by doing the following:
-	> This was a very thoughtful option for the NiceGUI project to offer, so let's use it.
-
-	```sh 
-	git clone nicegui
-	```
-
-	```sh
-	cd nicegui
-	```
-
-	Setup a virtual environment using conda or:
-
-	```sh
-	conda create -n nicegui python=3.10
-	```
-
-	```sh
-	conda activate NiceGUI-primer
-	```
-
-	Perhaps not all of these lib's are not needed, but it works:
-
-	```sh 
-	pip install itsdangerous prometheus_client isort docutils pandas plotly pyecharts matplotlib requests dnspython
-	```
-
-	After cloning and pip'ing the NiceGUI repository, now launch `main.py` in the root directory:
-
-	```sh 
-	python -B main.py
-	```
 
 ---
 
