@@ -9,7 +9,6 @@ Further information here:
 - https://github.com/zauberzeug/nicegui/blob/main/CONTRIBUTING.md#documentation
 
 ---
----
 
 
 ## 1. Install NiceGUI's documentation website for scraping
@@ -79,7 +78,7 @@ conda activate NiceGUI-primer
 
 ## 3. Scrape NiceGUI documentation
 
-Collect a list of the scrapable urls using Playwright with Chromium option
+	Collect a list of the scrapable urls using Playwright with the Chromium option
 
 	```sh
 	cd NiceGUI-primer
@@ -97,7 +96,7 @@ Collect a list of the scrapable urls using Playwright with Chromium option
 
 
 ## 4. Scrape using the list of urls into a text file
-	> also uses Playwright with Chromium option
+	> the following also uses Playwright with the Chromium option
 
 	```sh
 	cd NiceGUI-primer
