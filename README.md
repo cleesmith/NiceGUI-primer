@@ -7,7 +7,7 @@ conda activate NiceGUI-primer
 
 ## Steps to scrape NiceGUI documentation
 
-1. run nicegui website at localhost:8080 to avoid bugging the nicegui.io server:
+1. Run nicegui website at localhost:8080 to avoid bugging the nicegui.io server:
 	```sh 
 	git clone nicegui
 	```
@@ -20,7 +20,7 @@ conda activate NiceGUI-primer
 	python -B main.py
 	```
 
-2. collect all of the scrapable urls using Playwright via Chromium
+2. Collect all of the scrapable urls using Playwright via Chromium
 	```sh
 	pip install playwright
 	```
@@ -29,6 +29,7 @@ conda activate NiceGUI-primer
 	python -B 1_get_all_urls.py
 	```
 
-3. scrape the text from all urls into a text file
+3. Scrape the text from all urls into a text file
 
-4. scrape the text from all urls into a PDF file
+4. Scrape the text from all urls into a PDF file
+
