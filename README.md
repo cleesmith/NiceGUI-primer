@@ -9,6 +9,7 @@ Further information here:
 - https://github.com/zauberzeug/nicegui/blob/main/CONTRIBUTING.md#documentation
 
 ---
+---
 
 
 ## 1. Install NiceGUI's documentation website for scraping
@@ -95,7 +96,7 @@ Collect a list of the scrapable urls using Playwright with Chromium option
 ---
 
 
-## 4. Scrape using the list of scrapable urls into a text file
+## 4. Scrape using the list of urls into a text file
 	> also uses Playwright with Chromium option
 
 	```sh
@@ -103,7 +104,7 @@ Collect a list of the scrapable urls using Playwright with Chromium option
 	```
 
 	```sh
-	python -B 2_????.py
+	python -B 2_scrape_all_urls.py
 	```
 
 ---
