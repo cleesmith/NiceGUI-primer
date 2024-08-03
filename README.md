@@ -1,7 +1,11 @@
 # NiceGUI-primer
 The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file.
+
 ---
+
 ## Steps to install NiceGUI-primer
+
+---
 
 ## Steps to install NiceGUI-primer
 
@@ -21,6 +25,7 @@ conda create -n NiceGUI-primer python=3.10
 ```sh
 conda activate NiceGUI-primer
 ```
+
 ---
 
 ## Steps to scrape NiceGUI documentation
@@ -48,6 +53,8 @@ conda activate NiceGUI-primer
 	python -B main.py
 	```
 
+---
+
 2. Collect all of the scrapable urls using Playwright via Chromium
 	```sh
 	pip install playwright
@@ -57,7 +64,13 @@ conda activate NiceGUI-primer
 	python -B 1_get_all_urls.py
 	```
 
+---
+
 3. Scrape the text from all urls into a text file
 
-4. Scrape the text from all urls into a PDF file
+---
+
+
+---
+
 
