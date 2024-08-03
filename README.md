@@ -11,7 +11,7 @@ Further information here:
 
 ## Steps to install NiceGUI's documentation website for scraping
 
-To avoid bugging the nicegui.io online server, let's run the nicegui documenation website at: 
+To avoid bugging the nicegui.io online server, let's run the nicegui documenation website at: \
 http://localhost:8080/ by doing the following:
 
 > By the way, this was a very thoughtful option for the NiceGUI project to offer, so why not use it.
