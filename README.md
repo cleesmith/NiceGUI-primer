@@ -1,5 +1,5 @@
 # NiceGUI-primer
- NiceGUI documentation to be used as a primer for AI usage.
+ The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file.
 
 ```sh
 cd NiceGUI-primer
