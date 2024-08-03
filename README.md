@@ -11,16 +11,16 @@ conda activate NiceGUI-primer
 	```sh 
 	git clone nicegui
 	```
-	Perhaps not all of these lib's are not needed, but it works.
+	Perhaps not all of these lib's are not needed, but it works:
 	```sh 
 	pip install itsdangerous prometheus_client isort docutils pandas plotly pyecharts matplotlib requests dnspython
 	```
-
+	After cloning and pip'ing the NiceGUI repository, now launch `main.py` in the root directory:
 	```sh 
 	python -B main.py
 	```
 
-2. collect all of the scrapable urls using Playwright with Chromium
+2. collect all of the scrapable urls using Playwright via Chromium
 	```sh
 	pip install playwright
 	```
