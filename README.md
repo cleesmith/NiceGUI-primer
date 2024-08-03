@@ -9,7 +9,7 @@ Further information here:
 - https://github.com/zauberzeug/nicegui/blob/main/CONTRIBUTING.md#documentation
 
 ---
-
+  
 
 ## Steps to install NiceGUI's documentation website for scraping
 
@@ -52,7 +52,7 @@ python -B main.py
 ```
 
 ---
-
+  
 
 ## Steps to install NiceGUI-primer
 
@@ -75,7 +75,8 @@ conda activate NiceGUI-primer
 
 ---
 
-
+  
+  
 ## Steps to scrape NiceGUI documentation
 
 Collect a list of the scrapable urls using Playwright with Chromium option
