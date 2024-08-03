@@ -3,7 +3,11 @@
 
 ```sh
 cd NiceGUI-primer
+```
+```sh
 conda create -n NiceGUI-primer python=3.10
+```
+```sh
 conda activate NiceGUI-primer
 ```
 
