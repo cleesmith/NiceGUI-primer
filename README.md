@@ -1,9 +1,15 @@
 # NiceGUI-primer
 The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file.
 
+Further information here:
+- https://nicegui.io/
+- https://nicegui.io/documentation
+- https://github.com/zauberzeug/nicegui/
+- https://github.com/zauberzeug/nicegui/blob/main/CONTRIBUTING.md#documentation
+
 ---
 
-## Steps to install NiceGUI-primer
+## Steps to install NiceGUI's documentation website for scraping
 
 ---
 
