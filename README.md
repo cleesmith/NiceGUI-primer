@@ -36,7 +36,9 @@ conda activate NiceGUI-primer
 
 ## Steps to scrape NiceGUI documentation
 
-1. Run nicegui website at localhost:8080 to avoid bugging the nicegui.io server:
+1. To avoid bugging the nicegui.io online server, I run the nicegui website at http://localhost:8080/:
+	> This was a very thoughtful option for the NiceGUI project to offer.
+	
 	```sh 
 	git clone nicegui
 	```
