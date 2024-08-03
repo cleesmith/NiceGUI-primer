@@ -1,11 +1,11 @@
 # NiceGUI-primer
  NiceGUI documentation to be used as a primer for AI usage.
 
-	```sh 
-	cd NiceGUI-primer
-	conda create -n NiceGUI-primer python=3.10
-	conda activate NiceGUI-primer
-	```
+```sh
+cd NiceGUI-primer
+conda create -n NiceGUI-primer python=3.10
+conda activate NiceGUI-primer
+```
 
 ## Steps to scrape NiceGUI documentation
 
