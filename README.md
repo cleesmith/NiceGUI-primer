@@ -13,6 +13,7 @@ Setup a virtual environment using conda or other:
 ```sh
 conda create -n NiceGUI-primer python=3.10
 ```
+> Also, other python version may work, but I used 3.10.14.
 ```sh
 conda activate NiceGUI-primer
 ```
@@ -30,7 +31,6 @@ conda activate NiceGUI-primer
 	```sh
 	conda create -n nicegui python=3.10
 	```
-	Also, other python may work but I used 3.10.14.
 	```sh
 	conda activate NiceGUI-primer
 	```
