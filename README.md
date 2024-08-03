@@ -13,7 +13,7 @@ Further information here:
 
 To avoid bugging the nicegui.io online server, I run the nicegui documenation website at http://localhost:8080/ by doing the following:
 
-> This was a very thoughtful option for the NiceGUI project to offer, so let's use it.
+> By the way, this was a very thoughtful option for the NiceGUI project to offer, so why not use it.
 
 ```sh 
 git clone nicegui
