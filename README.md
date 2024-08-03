@@ -11,11 +11,10 @@ conda activate NiceGUI-primer
 	```sh 
 	git clone nicegui
 	```
-
+	Perhaps not all of these lib's are not needed, but it works.
 	```sh 
 	pip install itsdangerous prometheus_client isort docutils pandas plotly pyecharts matplotlib requests dnspython
 	```
-	  ... maybe all of that is not needed, but it works.
 
 	```sh 
 	python -B main.py
