@@ -61,7 +61,12 @@ conda activate NiceGUI-primer
 
 ---
 
-2. Collect all of the scrapable urls using Playwright via Chromium
+2. Collect a list of the scrapable urls using Playwright with Chromium option
+
+	```sh
+	cd NiceGUI-primer
+	```
+
 	```sh
 	pip install playwright
 	```
@@ -72,11 +77,16 @@ conda activate NiceGUI-primer
 
 ---
 
-3. Scrape the text from all urls into a text file
+3. Scrape using the list of scrapable urls into a text file
+> also uses Playwright with Chromium option
+
+	```sh
+	cd NiceGUI-primer
+	```
+
+	```sh
+	python -B 2_????.py
+	```
 
 ---
-
-
----
-
 
