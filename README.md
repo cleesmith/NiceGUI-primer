@@ -155,8 +155,9 @@ After digging around in the source code, there are ways to turn off #1 and
 and #4 (code example display/output). 
 
 Perhaps these changes are not possible, or just too much to ask of any project, 
-but a <i>**command line arg**</i> such as: <i>**--honhuman**</i> would certainly help 
-with the scraping of the doc's to be feed to AI's.
+but a <br>
+<i>**command line arg**</i> such as: <i>**--honhuman**</i> <br>
+would certainly help with the scraping of the doc's to be feed to AI's.
 
 ```sh
 cd nicegui
