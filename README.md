@@ -131,8 +131,8 @@ python -B 2_scrape_all_urls.py
 
 <blockquote style="font-size: 1.5em; text-align: right;">
   First and foremost, the state of AI in August 2024 can make one wonder 
-  about the <i>I</i> (<i>intelligence</i>) in AI, and this tiny project 
-  really seems like overkill just to help the <i>I</i> understand.
+  about the <i>"I"</i> (<i>intelligence</i>) in AI, and this tiny project 
+  really seems like overkill just to help the <i>"I"</i> understand.
 </blockquote>
 
 The online [NiceGUI documentation](https://nicegui.io/documentation) is great for 
