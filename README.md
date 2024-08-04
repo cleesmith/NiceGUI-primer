@@ -182,8 +182,7 @@ ui.run(uvicorn_reload_includes='*.py, *.css, *.html', reload=not on_fly, reconne
 > Sure it executes just fine, but to exit requires a **ctrl-c** and then one sees:
 
 ```sh
-cd nicegui
-python -B main.py   
+(nicegui) booboobear:~$ python -B main.py   
 NiceGUI ready to go on http://localhost:8080, and http://192.168.0.8:8080
 ^C%                                                                                                 
 (nicegui) booboobear:~$ /opt/miniconda3/envs/nicegui/lib/python3.10/multiprocessing/resource_tracker.py:224: 
