@@ -6,7 +6,7 @@ Why?
 
 - NiceGUI is new compared to cut-off training dates of many AI LLM's
 - while impressive being a dynamically created website for documentation, 
-a text file is smaller, faster, easier to ingest by AI
+a text file is smaller, faster, easier to ingest by AI's
 
 
 Further information here:
@@ -20,7 +20,7 @@ Further information here:
 
 ## 1. Install NiceGUI's documentation website for scraping
 
-To avoid bugging the nicegui.io online server, let's run the nicegui documenation website at: \
+To avoid disturbing the nicegui.io online server, let's run the nicegui documenation website at: \
 http://localhost:8080/ by doing the following:
 
 > By the way, this was a very thoughtful option for the NiceGUI project to offer, so why not use it.
@@ -123,6 +123,8 @@ python -B 2_scrape_all_urls.py
 
 # Thoughts
 
+The online ![NiceGUI documentation](https://nicegui.io/documentation) is great for 
+humans, but not so great for AI.
 
 ```sh
 cd nicegui
