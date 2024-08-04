@@ -124,11 +124,14 @@ python -B 2_scrape_all_urls.py
 # Thoughts
 
 The online [NiceGUI documentation](https://nicegui.io/documentation) is great for 
-humans, but not so great for AI. And the scraping process is affected by:
-- repeated links due to navigation which is helpful to humans
-- even more anchor links, such as: \ 
-https://nicegui.io/documentation/section_text_elements#label \ 
+humans, but not so great for AI. 
+
+And the scraping process is affected by:
+1. repeated links due to navigation which is helpful to humans
+1. so many anchor links, such as: 
+https://nicegui.io/documentation/section_text_elements#label 
 i.e. it's the #label thing, and there are a lot of them in the doc's
+1. the example display/output shown by executing the example code
 
 ```sh
 cd nicegui
