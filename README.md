@@ -8,6 +8,10 @@ Why?
 - while impressive being a dynamically created website for documentation, 
 a text file is smaller, faster, easier to ingest by AI's
 
+The [primer for NiceGUI](https://chatgpt.com/g/g-n2O45ylVT-nicegui-primer) is 
+available for use as a GPT on OpenAI's GPT store. While it's offered as free 
+to use by me; you may have to have a ChatGPT account ($'s).
+> It turns out that there are several existing GPT's being offered.
 
 Further information here:
 - https://nicegui.io/
