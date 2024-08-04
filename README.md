@@ -4,13 +4,13 @@ This project provides the plain text primer version of NiceGUI's documentation f
 
 Why? 
 
-- NiceGUI is new compared to cut-off training dates of many AI LLM's
-- while impressive being a dynamically created website for documentation, 
+- NiceGUI is new compared to the cut-off training dates of many AI LLM's
+- While impressive for humans, being a dynamically created website for documentation, 
 a text file is smaller, faster, easier to ingest by AI's
 
 The [primer for NiceGUI](https://chatgpt.com/g/g-n2O45ylVT-nicegui-primer) is 
 available for use as a GPT on OpenAI's GPT store. While it's offered by me 
-as free to use tool; you may have to have a ChatGPT account ($'s). Also, it's 
+as a free to use tool; you may have to setup a ChatGPT account (maybe $'s). Also, it's 
 not just limited to chatting about NiceGUI, the GPT is backed by GPT-4 so it 
 can be used for any typical chat activities and capable of coding in Python.
 > It turns out that there are several existing GPT's being offered regarding NiceGUI, see: [Exploring GPTs](https://chatgpt.com/gpts).
@@ -133,7 +133,7 @@ The online [NiceGUI documentation](https://nicegui.io/documentation) is great fo
 humans, but not so great for AI. 
 
 And the scraping process is affected by:
-1. repeated links due to navigation which is helpful to humans; 
+1. repeated links due to the navigation, which is helpful to humans; 
 see #1 and #2 in the screenshot below
 2. so many anchor links, such as: 
 https://nicegui.io/documentation/section_text_elements#label 
@@ -158,6 +158,55 @@ python -B main.py --nonhuman
 ```
 
 ![NiceGUI Screenshot](nicegui_screenshot.png)
+
+---
+
+## A personal mild pet peeve
+
+> Oh those first impressions:
+
+```python
+NOTE: do not reload on fly.io (see https://github.com/zauberzeug/nicegui/discussions/1720#discussioncomment-7288741)
+ui.run(uvicorn_reload_includes='*.py, *.css, *.html', reload=not on_fly, reconnect_timeout=10.0)
+```
+> Sure it executes just fine, but to exit requires a **ctrl-c** and then one sees:
+
+```sh
+cd nicegui
+python -B main.py   
+NiceGUI ready to go on http://localhost:8080, and http://192.168.0.8:8080
+^C%                                                                                                 
+(nicegui) booboobear:~$ /opt/miniconda3/envs/nicegui/lib/python3.10/multiprocessing/resource_tracker.py:224: 
+UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown
+warnings.warn('resource_tracker: There appear to be %d '
+```
+> What is all of that about?
+
+
+```python
+if __name__ == "__main__":
+    try:
+        # just say no to reload
+        ui.run(reload=False, reconnect_timeout=10.0, show_welcome_message=False, title="NiceGUI documentation")
+    except KeyboardInterrupt:
+        print(f"\nShutting down NiceGUI documentation server . . .", end=" ")
+        app.shutdown() # is not required but feels logical and says it all
+    finally:
+        print("catch you later!")
+```
+
+And now, so nice, so clean:
+
+```sh
+cd nicegui
+python -B main.py
+^C
+Shutting down NiceGUI documentation server . . . catch you later!
+```
+
+---
+
+# fin
 
 ---
 
