@@ -4,8 +4,9 @@ This project provides the plain text primer version of NiceGUI's documentation f
 
 Why? 
 
-- the NiceGUI is new compared to the many AI LLM's cut-off training dates
-- while impressive being a dynamically created website for documentation, a text file is smaller, faster, easier to ingest by AI
+- NiceGUI is new compared to cut-off training dates of many AI LLM's
+- while impressive being a dynamically created website for documentation, \ 
+a text file is smaller, faster, easier to ingest by AI
 
 
 Further information here:
