@@ -24,6 +24,7 @@ def get_page_height(page, url):
 	#     8854.27mm for the URL: http://localhost:8080/documentation/page_layout
 	width_px = page.evaluate("document.body.scrollWidth")
 	width_mm = round(width_px * 0.264583, 2)
+	# coz who doesn't like watching a too long running process scroll by:
 	print(f"width: {width_mm}mm x height: {height_mm}mm = {url}")
 	if width_mm > MAX_WIDTH:
 		MAX_WIDTH = width_mm
@@ -106,6 +107,6 @@ if __name__ == "__main__":
 
 # Aug 4, 2024:
 # Crawling time: 113.81 sec.s to create nicegui_documentation.pdf
-# MAX_WIDTH=369.36
-# MAX_HEIGHT=8346.01
+# MAX_WIDTH=369.36 mm
+# MAX_HEIGHT=8346.01 mm
 
