@@ -120,3 +120,19 @@ python -B 2_scrape_all_urls.py
 
 ---
 
+
+## Thoughts on scraping NiceGUI's documentation
+
+
+```sh
+cd nicegui
+```
+
+```sh
+python -B main.py --nonhuman
+```
+
+![NiceGUI Screenshot](nicegui_screenshot.png)
+
+---
+
