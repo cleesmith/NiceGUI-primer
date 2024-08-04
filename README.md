@@ -198,6 +198,8 @@ cd nicegui
 python -B main.py --nonhuman
 ```
 
+A screenshot of a typical NiceGUI documentation page with annotation of the troublesome spots:
+
 ![NiceGUI Screenshot](nicegui_screenshot.png)
 
 ---
