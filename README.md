@@ -13,7 +13,7 @@ available for use as a GPT on OpenAI's GPT store. While it's offered by me
 as free to use tool; you may have to have a ChatGPT account ($'s). Also, it's 
 not just limited to chatting about NiceGUI, the GPT is backed by GPT-4 so it 
 can be used for any typical chat activities and capable of coding in Python.
-> It turns out that there are several existing GPT's being offered regarding NiceGUI.
+> It turns out that there are several existing GPT's being offered regarding NiceGUI, see: [Exploring GPTs](https://chatgpt.com/gpts).
 
 Further information here:
 - https://nicegui.io/
