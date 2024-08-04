@@ -135,6 +135,7 @@ i.e. it's the #label thing, and there are a lot of them in the doc's;
 see #3 in the screenshot below
 3. the example display/output shown by executing the example code; 
 see #4 in the screenshot below
+> however this example code is executed, it does affect the page load time
 
 ```sh
 cd nicegui
