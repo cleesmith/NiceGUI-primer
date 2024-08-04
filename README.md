@@ -171,7 +171,9 @@ python -B main.py --nonhuman
 
 ## A personal pet peeve (a mild one)
 
-> Oh those first impressions:
+### Oh those first impressions
+
+> See ~/nicegui/main.py:
 
 ```python
 NOTE: do not reload on fly.io (see https://github.com/zauberzeug/nicegui/discussions/1720#discussioncomment-7288741)
