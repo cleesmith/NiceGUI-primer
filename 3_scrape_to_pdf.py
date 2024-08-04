@@ -8,7 +8,6 @@ from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 
 MAX_PAGE_HEIGHT_MM = 5080  # Maximum height per ISO 32000 standard
-
 MAX_WIDTH = 0
 MAX_HEIGHT = 0
 
