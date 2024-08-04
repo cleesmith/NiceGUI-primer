@@ -60,6 +60,12 @@ python3 -m pip install -e .
 pip install itsdangerous prometheus_client isort docutils pandas plotly pyecharts matplotlib requests dnspython
 ```
 
+> Sometimes these were needed too:
+```sh
+pip install pytest
+pip install selenium
+```
+
 Now launch `main.py` in the root directory:
 
 ```sh 
