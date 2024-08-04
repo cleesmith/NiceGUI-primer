@@ -206,7 +206,8 @@ A screenshot of a typical NiceGUI documentation page with annotation of the trou
 
 ## A personal pet peeve (a mild one)
 
-### Oh those first impressions
+### Oh, those first impressions.
+> But in the case of NiceGUI it was worth proceeding forward with learning.
 
 > See ~/nicegui/main.py:
 
