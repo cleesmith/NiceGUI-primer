@@ -154,9 +154,9 @@ After digging around in the source code, there are ways to turn off #1 and
 #2 (the nav bars) but there was no easy way found to stop #3 (anchor links) 
 and #4 (code example display/output). 
 
-Perhaps this is not possible, or just too much to ask, but a <i>command line arg</i> 
-such as: <i>--honhuman</i> would certainly help with the scraping of the doc's to 
-be feed to AI's.
+Perhaps these changes are not possible, or just too much to ask of any project, 
+but a <i>**command line arg**</i> such as: <i>**--honhuman**</i> would certainly help 
+with the scraping of the doc's to be feed to AI's.
 
 ```sh
 cd nicegui
