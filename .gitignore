@@ -2,3 +2,4 @@
 urls_to_crawl.txt
 Terminal*
 static*
+*.pdf
