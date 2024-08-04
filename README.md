@@ -157,8 +157,8 @@ and #4 (code example display/output).
 Perhaps these changes are not possible, or just too much to ask of any project, 
 but a <br>
 <i>**command line arg**</i> such as: <i>**--honhuman**</i> <br>
-would certainly help with the scraping of the doc's to be feed to AI's by 
-removing all 4 of the troublesome spots ... somehow.
+would certainly help with the scraping of the doc's to be feed to AI's  
+in removing all 4 of the troublesome spots, like so:
 
 ```sh
 cd nicegui
