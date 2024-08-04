@@ -121,7 +121,7 @@ python -B 2_scrape_all_urls.py
 ---
 
 
-## Thoughts on scraping NiceGUI's documentation
+# Thoughts
 
 
 ```sh
