@@ -214,6 +214,8 @@ python -B main.py
 Shutting down NiceGUI documentation server . . . catch you later!
 ```
 
+> I know, TMI, right?
+
 ---
 
 <h1 align="center">fin</h1>
