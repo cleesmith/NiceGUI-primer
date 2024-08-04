@@ -127,6 +127,26 @@ python -B 2_scrape_all_urls.py
 ---
 
 
+## 5. Scrape using the list of urls into a PDF file
+> Again, this process also uses Playwright with the Chromium option
+
+<div style="border: 2px solid red; padding: 10px; border-radius: 5px;">
+  <strong style="color: red;">⚠️ WARNING:</strong> 
+  While this code works to create a PDF file, it is just too big to be
+  useful with AI's as they exist in August 2024. But your mileage may vary.
+</div>
+
+```sh
+cd NiceGUI-primer
+```
+
+```sh
+python -B 3_scrape_to_pdf.py
+```
+
+---
+
+
 # Thoughts
 
 <blockquote style="font-size: 3em;">
