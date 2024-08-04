@@ -134,6 +134,16 @@ python -B 2_scrape_all_urls.py
 
 ---
 
+<div style="border: 2px solid red; padding: 10px; border-radius: 5px;">
+  <strong style="color: red;">🤓 NOTE:</strong> 
+  <br>
+  While it is simple to combine steps **3.** and **4.** above into a 
+  single script, I preferred having the sanity check of a text file 
+  with the list of known URLs to be scraped.
+</div>
+<br>
+
+---
 
 ## 5. Scrape using the list of urls into a PDF file
 > Again, this process also uses Playwright with the Chromium option
@@ -179,13 +189,13 @@ see #1 and #2 in the screenshot below
 https://nicegui.io/documentation/section_text_elements#label 
 i.e. it's the #label thing, and there are a lot of them in the doc's; 
 see #3 in the screenshot below
-3. the <i>example display/output</i> shown by executing the example code; 
+3. the <i>example display/output</i> or <i>live demo</i> shown by executing the example code; 
 see #4 in the screenshot below
 > This example code, regardless of how it's executed, impacts page load time.
 
 After digging around in the source code, there are ways to turn off #1 and 
 #2 (the nav bars) but there was no easy way found to stop #3 (anchor links) 
-and #4 (code example display/output). 
+and #4 (code live demos or example display/output). 
 
 Perhaps these changes are not possible, or just too much to ask of any project, 
 but a <br>
