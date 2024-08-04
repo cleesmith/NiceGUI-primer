@@ -129,9 +129,10 @@ python -B 2_scrape_all_urls.py
 
 # Thoughts
 
-<blockquote style="font-size: 2em; text-align: right;">
+<blockquote style="font-size: 3em;">
   First and foremost, the state of AI in August 2024 can make one wonder 
-  about the <i>"I"</i> (<i>intelligence</i>) in AI, and this tiny project 
+  about the <i>"I"</i> (<i>intelligence</i>) in AI, <br>
+  and this tiny project 
   really seems like overkill just to help the <i>"I"</i> understand.
 </blockquote>
 
