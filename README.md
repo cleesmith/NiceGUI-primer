@@ -8,12 +8,13 @@ Why?
 - While impressive for humans, being a dynamically created website for documentation 
 and all; a text file is smaller, faster, easier to ingest by AI's
 
-The [primer for NiceGUI](https://chatgpt.com/g/g-n2O45ylVT-nicegui-primer) is 
-available for use as a GPT on OpenAI's GPT store. While it's offered by me 
-as a free to use tool; you may have to setup a ChatGPT account (maybe $'s). Also, it's 
-not just limited to chatting about NiceGUI, the GPT is backed by GPT-4 so it 
-can be used for any typical chat activities and capable of coding in Python.
-> It turns out that there are several existing GPT's being offered regarding NiceGUI, see: [Exploring GPTs](https://chatgpt.com/gpts).
+The [NiceGUI Primer](https://chatgpt.com/g/g-n2O45ylVT-nicegui-primer) is 
+available for use as a GPT via OpenAI's GPT store. While it's offered by me 
+as a free to use tool; you may have to setup a ChatGPT account (maybe $'s). 
+Further, it's not just limited to chatting about NiceGUI, the GPT is backed by 
+GPT-4 so it can be used for any typical chat activities as well as the built-in 
+ability to code in Python with awareness of other PyPi's and libraries.
+> It turns out that other GPT's exist regarding NiceGUI, see: [Exploring GPTs](https://chatgpt.com/gpts).
 
 Further information here:
 - https://nicegui.io/
