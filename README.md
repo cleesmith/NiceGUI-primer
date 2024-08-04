@@ -1,6 +1,6 @@
 # NiceGUI-primer
 
-The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file. 
+This project provides the plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file. 
 
 Why? 
 
