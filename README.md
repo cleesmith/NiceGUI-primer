@@ -129,7 +129,7 @@ python -B 2_scrape_all_urls.py
 
 # Thoughts
 
-<blockquote style="font-size: 1.5em; text-align: right;">
+<blockquote style="font-size: 2em; text-align: right;">
   First and foremost, the state of AI in August 2024 can make one wonder 
   about the <i>"I"</i> (<i>intelligence</i>) in AI, and this tiny project 
   really seems like overkill just to help the <i>"I"</i> understand.
@@ -149,10 +149,6 @@ see #3 in the screenshot below
 see #4 in the screenshot below
 > This example code, regardless of how it's executed, impacts page load time.
 
-```sh
-cd nicegui
-```
-
 After digging around in the source code, there are ways to turn off #1 and 
 #2 (the nav bars) but there was no easy way found to stop #3 (anchor links) 
 and #4 (code example display/output). Perhaps this is not possible, or 
@@ -160,6 +156,7 @@ just too much to ask, but a <i>command line arg</i> such as: <i>--honhuman</i> w
 certainly help with the scraping of the doc's to be feed to AI's.
 
 ```sh
+cd nicegui
 python -B main.py --nonhuman
 ```
 
