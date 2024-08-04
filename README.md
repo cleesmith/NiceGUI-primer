@@ -1,6 +1,10 @@
 # NiceGUI-primer
 
-The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file.
+The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file. \
+Why? \
+- the NiceGUI is new compared to the many AI LLM's cut-off training dates
+- while impressive being a dynamically created website for documentation, a text file is smaller, faster, easier to ingest by AI
+
 
 Further information here:
 - https://nicegui.io/
@@ -78,33 +82,33 @@ conda activate NiceGUI-primer
 
 ## 3. Scrape NiceGUI documentation
 
-	Collect a list of the scrapable urls using Playwright with the Chromium option
+Collect a list of the scrapable urls using Playwright with the Chromium option
 
-	```sh
-	cd NiceGUI-primer
-	```
+```sh
+cd NiceGUI-primer
+```
 
-	```sh
-	pip install playwright
-	```
+```sh
+pip install playwright
+```
 
-	```sh
-	python -B 1_get_all_urls.py
-	```
+```sh
+python -B 1_get_all_urls.py
+```
 
 ---
 
 
 ## 4. Scrape using the list of urls into a text file
-	> the following also uses Playwright with the Chromium option
+> This process also uses Playwright with the Chromium option
 
-	```sh
-	cd NiceGUI-primer
-	```
+```sh
+cd NiceGUI-primer
+```
 
-	```sh
-	python -B 2_scrape_all_urls.py
-	```
+```sh
+python -B 2_scrape_all_urls.py
+```
 
 ---
 
