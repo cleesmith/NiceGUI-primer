@@ -137,7 +137,7 @@ python -B 2_scrape_all_urls.py
 <div style="border: 2px solid red; padding: 10px; border-radius: 5px;">
   <strong style="color: red;">🤓 NOTE:</strong> 
   <br>
-  While it is simple to combine steps **3.** and **4.** above into a 
+  While it is simple to combine steps <b>3.</b> and <b>4.</b> above into a 
   single script, I preferred having the sanity check of a text file 
   with the list of known URLs to be scraped.
 </div>
