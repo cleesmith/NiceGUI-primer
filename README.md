@@ -134,8 +134,7 @@ python -B 2_scrape_all_urls.py
   <strong style="color: red;">⚠️ WARNING:</strong> 
   <br>
   While this code works to create a PDF file, the result is just too big to 
-  be useful with AI's as they exist in August 2024. 
-  <br>
+  be useful with AI's as they exist in August 2024.
   But your mileage may vary.
 </div>
 <br>
