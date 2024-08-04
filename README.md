@@ -1,8 +1,8 @@
 # NiceGUI-primer
 
-The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file. \
+The plain text primer version of NiceGUI's documentation for usage with AI or as a portable offline file. 
 
-Why? \
+Why? 
 
 - the NiceGUI is new compared to the many AI LLM's cut-off training dates
 - while impressive being a dynamically created website for documentation, a text file is smaller, faster, easier to ingest by AI
