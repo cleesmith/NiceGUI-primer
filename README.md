@@ -135,11 +135,17 @@ i.e. it's the #label thing, and there are a lot of them in the doc's;
 see #3 in the screenshot below
 3. the example display/output shown by executing the example code; 
 see #4 in the screenshot below
-> however this example code is executed, it does affect the page load time
+> This example code, regardless of how it's executed, impacts page load time.
 
 ```sh
 cd nicegui
 ```
+
+After digging around in the source code, there are ways to turn off #1 and 
+#2 (the nav bars) but there was no easy way found to stop #3 (anchor links) 
+and #4 (code example display/output). Perhaps this is not possible, or 
+just too much to ask, but a **command line arg** like: --honhuman would 
+certainly help with the scraping of the doc's to be feed to AI's.
 
 ```sh
 python -B main.py --nonhuman
