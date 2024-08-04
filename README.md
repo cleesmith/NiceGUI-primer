@@ -5,12 +5,11 @@ This project provides the plain text primer version of NiceGUI's documentation f
 Why? 
 
 - NiceGUI is new compared to the cut-off training dates of many AI LLM's
-- While impressive for humans, being a dynamically created website for documentation 
-and all; a text file is smaller, faster, easier to ingest by AI's
+- While dynamically created websites are impressive for humans, a text file is smaller, faster, and easier for AIs to ingest.
 
 The [NiceGUI Primer](https://chatgpt.com/g/g-n2O45ylVT-nicegui-primer) is 
 available for use as a GPT via OpenAI's GPT store. While it's offered by me 
-as a free to use tool; you may have to setup a ChatGPT account (maybe $'s). 
+as a free to use tool; you may have to set up a ChatGPT account (maybe $'s). 
 Further, it's not just limited to chatting about NiceGUI, the GPT is backed by 
 GPT-4 so it can be used for any typical chat activities as well as the built-in 
 ability to code in Python with awareness of other PyPi's and libraries.
@@ -27,7 +26,7 @@ Further information here:
 
 ## 1. Install NiceGUI's documentation website for scraping
 
-To avoid disturbing the nicegui.io online server, let's run the nicegui documenation website at: \
+To avoid disturbing the nicegui.io online server, let's run the nicegui documentation website at: \
 http://localhost:8080/ by doing the following:
 
 > By the way, this was a very thoughtful option for the NiceGUI project to offer, so why not use it.
