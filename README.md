@@ -10,9 +10,11 @@ Why?
 The [NiceGUI Primer](https://chatgpt.com/g/g-n2O45ylVT-nicegui-primer) is 
 available for use as a GPT via OpenAI's GPT store. While it's offered by me 
 as a free to use tool; you may have to set up a ChatGPT account (maybe $'s). 
-Further, the NiceGUI Primer GPT is not just limited to chatting about NiceGUI, the GPT is backed by 
-GPT-4 so it can be used for any typical chat activities as well as the built-in 
-ability to code in Python with an awareness of other PyPi's and libraries.
+But the NiceGUI Primer GPT is not just limited to chatting about and coding NiceGUI, 
+since it is backed by GPT-4, it can be used for any typical chat activities as well 
+as the built-in ability to code in Python with an awareness of other PyPi's and 
+libraries.
+
 > It turns out that other GPT's exist regarding NiceGUI, see: [Exploring GPTs](https://chatgpt.com/gpts).
 
 Further information here:
