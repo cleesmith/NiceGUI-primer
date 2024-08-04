@@ -123,7 +123,7 @@ python -B 2_scrape_all_urls.py
 
 # Thoughts
 
-The online ![NiceGUI documentation](https://nicegui.io/documentation) is great for 
+The online [NiceGUI documentation](https://nicegui.io/documentation) is great for 
 humans, but not so great for AI.
 
 ```sh
