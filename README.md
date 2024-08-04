@@ -138,7 +138,7 @@ python -B 2_scrape_all_urls.py
   <br>
   But your mileage may vary.
 </div>
-
+<br><br>
 
 ```sh
 cd NiceGUI-primer
