@@ -132,9 +132,13 @@ python -B 2_scrape_all_urls.py
 
 <div style="border: 2px solid red; padding: 10px; border-radius: 5px;">
   <strong style="color: red;">⚠️ WARNING:</strong> 
-  While this code works to create a PDF file, it is just too big to be
-  useful with AI's as they exist in August 2024. But your mileage may vary.
+  <br>
+  While this code works to create a PDF file, the result is just too big to 
+  be useful with AI's as they exist in August 2024. 
+  <br>
+  But your mileage may vary.
 </div>
+
 
 ```sh
 cd NiceGUI-primer
