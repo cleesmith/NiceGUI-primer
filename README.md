@@ -191,6 +191,7 @@ warnings.warn('resource_tracker: There appear to be %d '
 ```
 > What is all of that about?
 
+So adding a tiny bit of code to catch the **ctrl-c**:
 
 ```python
 if __name__ == "__main__":
