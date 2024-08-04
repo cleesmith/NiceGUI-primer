@@ -4,7 +4,7 @@ This project provides the plain text primer version of NiceGUI's documentation f
 
 Why? 
 
-- NiceGUI is new compared to the cut-off training dates of many AI LLM's
+- NiceGUI is new compared to the cut-off training dates of many AI LLM's, so they are not aware of recent updates and will often make incorrect assumptions when coding.
 - While dynamically created websites are impressive and useful for humans, a plain text file is smaller, faster, and easier for AIs to ingest and interpret.
 
 The [NiceGUI Primer](https://chatgpt.com/g/g-n2O45ylVT-nicegui-primer) is 
