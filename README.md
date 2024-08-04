@@ -127,11 +127,14 @@ The online [NiceGUI documentation](https://nicegui.io/documentation) is great fo
 humans, but not so great for AI. 
 
 And the scraping process is affected by:
-1. repeated links due to navigation which is helpful to humans
-1. so many anchor links, such as: 
+1. repeated links due to navigation which is helpful to humans; 
+see #1 and #2 in the screenshot below
+2. so many anchor links, such as: 
 https://nicegui.io/documentation/section_text_elements#label 
-i.e. it's the #label thing, and there are a lot of them in the doc's
-1. the example display/output shown by executing the example code
+i.e. it's the #label thing, and there are a lot of them in the doc's; 
+see #3 in the screenshot below
+3. the example display/output shown by executing the example code; 
+see #4 in the screenshot below
 
 ```sh
 cd nicegui
