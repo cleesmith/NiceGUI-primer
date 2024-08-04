@@ -43,13 +43,15 @@ conda create -n nicegui python=3.10
 conda activate nicegui
 ```
 
-Perhaps not all of these lib's are not needed, but it works:
+Perhaps not all of the following are actually required, but this works:
+
+```bash
+python3 -m pip install -e .
+```
 
 ```sh 
 pip install itsdangerous prometheus_client isort docutils pandas plotly pyecharts matplotlib requests dnspython
 ```
-
-After cloning and pip installs for the NiceGUI repository
 
 Now launch `main.py` in the root directory:
 
@@ -70,11 +72,14 @@ git clone https://github.com/cleesmith/NiceGUI-primer.git
 ```sh
 cd NiceGUI-primer
 ```
+
 Setup a virtual environment using conda or something:
+> Also, other python versions may work, but I used 3.10.14:
+
 ```sh
 conda create -n NiceGUI-primer python=3.10
 ```
-> Also, other python versions may work, but I used 3.10.14.
+
 ```sh
 conda activate NiceGUI-primer
 ```
