@@ -131,7 +131,7 @@ python -B 2_scrape_all_urls.py
 
 <blockquote style="font-size: 1.5em; text-align: right;">
   First and foremost, the state of AI in August 2024 can make one wonder 
-  about the *I* (*intelligence*) in AI, and this really seems like overkill 
+  about the *I* (_intelligence_) in AI, and this really seems like overkill 
   to code something just to help the *I* understand.
 </blockquote>
 
