@@ -9,9 +9,11 @@ Why?
 a text file is smaller, faster, easier to ingest by AI's
 
 The [primer for NiceGUI](https://chatgpt.com/g/g-n2O45ylVT-nicegui-primer) is 
-available for use as a GPT on OpenAI's GPT store. While it's offered as free 
-to use by me; you may have to have a ChatGPT account ($'s).
-> It turns out that there are several existing GPT's being offered.
+available for use as a GPT on OpenAI's GPT store. While it's offered by me 
+as free to use tool; you may have to have a ChatGPT account ($'s). Also, it's 
+not just limited to chatting about NiceGUI, the GPT is backed by GPT-4 so it 
+can be used for any typical chat activities and capable of coding in Python.
+> It turns out that there are several existing GPT's being offered regarding NiceGUI.
 
 Further information here:
 - https://nicegui.io/
