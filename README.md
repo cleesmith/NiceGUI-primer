@@ -94,6 +94,8 @@ Now launch `main.py` in the root directory:
 python -B main.py
 ```
 
+Now, your default web browser should appear with the launch of the website server at http://127.0.0.1:8080/.
+
 ---
   
 
