@@ -23,7 +23,10 @@ libraries.
 
 > It turns out that other GPT's exist regarding NiceGUI, see: [Exploring GPTs](https://chatgpt.com/gpts).
 
-Further information here:
+---
+
+
+## Further information here:
 - https://nicegui.io/
 - https://nicegui.io/documentation
 - https://github.com/zauberzeug/nicegui/
