@@ -9,6 +9,8 @@ Why?
 
 ---
 
+# A Typical Usage
+
 ![NiceGUI Primer](NiceGUI-primer_gpt.png)
 
 The [NiceGUI Primer](https://chatgpt.com/g/g-n2O45ylVT-nicegui-primer) is 
