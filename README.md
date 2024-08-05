@@ -144,7 +144,7 @@ python -B 1_get_all_urls.py
 
 
 ## 4. Scrape using the list of urls into a text file
-> This process also uses Playwright with the Chromium option
+> This process also uses Playwright with the Chromium option.
 
 ```sh
 cd NiceGUI-primer
@@ -159,16 +159,17 @@ python -B 2_scrape_all_urls.py
 <div style="border: 2px solid red; padding: 10px; border-radius: 5px;">
   <strong style="color: red;">🤓 NOTE:</strong> 
   <br>
-  While it is simple to combine steps <b>3.</b> and <b>4.</b> above into a 
-  single script, I preferred having the sanity check of a text file 
-  with the list of known URLs to be scraped.
+  While it would be simple to combine steps <b>3.</b> and <b>4.</b> above 
+  into a single script, I preferred having the sanity check of a text file 
+  with the list of known URLs to be scraped. So I could double check the 
+  list before scraping.
 </div>
 <br>
 
 ---
 
 ## 5. Scrape using the list of urls into a PDF file
-> Again, this process also uses Playwright with the Chromium option
+> Again, this process also uses Playwright with the Chromium option.
 
 <div style="border: 2px solid red; padding: 10px; border-radius: 5px;">
   <strong style="color: red;">⚠️ WARNING:</strong> 
