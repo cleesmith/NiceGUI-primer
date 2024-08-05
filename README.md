@@ -28,15 +28,15 @@ Further information here:
 # TL;DR
 
 1. in a command line window: 
-    - clone the repo
+    - clone the nicegui repo
     - cd nicegui
-    - do env/pip stuff
+    - do env/pip stuff (tested with miniconda and python 3.10)
     - python -B main.py to launch the website server at http://127.0.0.1:8080/
 
 2. in another command line window: 
     - clone this repo
     - cd NiceGUI-primer
-    - do env/pip stuff
+    - do env/pip stuff (tested with miniconda and python 3.10)
     - then run:
         - python 1_get_all_urls.py ... makes a list of urls to be scraped
         - python 2_scrape_all_urls.py ... scrape list of urls into a text file
