@@ -7,6 +7,10 @@ Why?
 - NiceGUI is new compared to the cut-off training dates of many AI LLM's, so they are not aware of recent updates and will often make incorrect assumptions when coding.
 - While dynamically created websites are impressive and useful for humans, a plain text file is smaller, faster, and easier for AIs to ingest and interpret.
 
+---
+
+![NiceGUI Primer](NiceGUI-primer_gpt.png)
+
 The [NiceGUI Primer](https://chatgpt.com/g/g-n2O45ylVT-nicegui-primer) is 
 available for use as a GPT via OpenAI's GPT store. While it's offered by me 
 as a free to use tool; you may have to set up a ChatGPT account (maybe $'s). 
