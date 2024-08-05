@@ -214,10 +214,7 @@ A screenshot of a typical NiceGUI documentation page with annotation of the trou
 
 ---
 
-## A personal pet peeve (a mild one)
-
-### Oh, those first impressions.
-> But in the case of NiceGUI it was worth proceeding forward with learning.
+## Exiting cleanly
 
 > See ~/nicegui/main.py:
 
@@ -235,7 +232,6 @@ NiceGUI ready to go on http://localhost:8080, and http://192.168.0.8:8080
 UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown
 warnings.warn('resource_tracker: There appear to be %d '
 ```
-> What is all of that about?
 
 So let's add a tiny bit of code to catch the **ctrl-c**:
 
@@ -251,7 +247,7 @@ if __name__ == "__main__":
         print("catch you later!")
 ```
 
-And now, so nice, so clean:
+And now, a clean exit:
 
 ```sh
 cd nicegui
@@ -259,8 +255,6 @@ python -B main.py
 ^C
 Shutting down NiceGUI documentation server . . . catch you later!
 ```
-
-> I know, TMI, right?
 
 ---
 
