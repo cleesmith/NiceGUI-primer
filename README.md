@@ -43,7 +43,14 @@ Further information here:
 
 3. use the final text file with AI's or for other purposes
 
-## OR ... just grab the included: nicegui_docs.txt and be done.
+## OR ... just grab the included [doc's text file](nicegui_docs.txt) and be done.
+
+<div style="border: 2px solid red; padding: 10px; border-radius: 5px;">
+  <strong style="color: red;">⚠️ WARNING:</strong> 
+  <br>
+  If you want your NiceGUI documentation text file to be up-to-date, you 
+  will have to re-run the scraping.
+</div>
 
 ---
 
