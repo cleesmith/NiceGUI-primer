@@ -27,13 +27,13 @@ Further information here:
 
 # TL;DR
 
-1. in a command line window: 
+1. open a command line window: 
     - clone the nicegui repo
     - cd nicegui
     - do env/pip stuff (tested with miniconda and python 3.10)
-    - python -B main.py to launch the website server at http://127.0.0.1:8080/
+    - python main.py ... to launch the website server at http://127.0.0.1:8080/
 
-2. in another command line window: 
+2. open another command line window: 
     - clone this repo
     - cd NiceGUI-primer
     - do env/pip stuff (tested with miniconda and python 3.10)
