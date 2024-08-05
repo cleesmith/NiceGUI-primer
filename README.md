@@ -25,12 +25,12 @@ Further information here:
 
 ---
 
-TL;DR
+# TL;DR
 
 1. clone the repo, cd nicegui, pip install's, python -B main.py to launch the website server
 2. clone this repo, cd NiceGUI-primer, env/pip stuff, now do:
-- python -B 1_get_all_urls.py ... makes a list of urls to be scraped
-- python -B 2_scrape_all_urls.py ... scrape list of urls into a text file
+    - python -B 1_get_all_urls.py ... makes a list of urls to be scraped
+    - python -B 2_scrape_all_urls.py ... scrape list of urls into a text file
 3. use text file with AI's or for other purposes
 
 ---
