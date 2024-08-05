@@ -27,10 +27,20 @@ Further information here:
 
 # TL;DR
 
-1. in a command line window do: clone the repo, cd nicegui, do env/pip stuff, python -B main.py to launch the website server
-2. in another command line window do: clone this repo, cd NiceGUI-primer, do env/pip stuff, then run:
-    - python 1_get_all_urls.py ... makes a list of urls to be scraped
-    - python 2_scrape_all_urls.py ... scrape list of urls into a text file
+1. in a command line window: 
+    - clone the repo
+    - cd nicegui
+    - do env/pip stuff
+    - python -B main.py to launch the website server at http://127.0.0.1:8080/
+
+2. in another command line window: 
+    - clone this repo
+    - cd NiceGUI-primer
+    - do env/pip stuff
+    - then run:
+        - python 1_get_all_urls.py ... makes a list of urls to be scraped
+        - python 2_scrape_all_urls.py ... scrape list of urls into a text file
+
 3. use the final text file with AI's or for other purposes
 
 ---
