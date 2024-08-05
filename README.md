@@ -43,6 +43,8 @@ Further information here:
 
 3. use the final text file with AI's or for other purposes
 
+## OR ... just grab the included: nicegui_docs.txt and be done.
+
 ---
 
 
