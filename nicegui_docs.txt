@@ -1,6 +1,11 @@
 
+Last update: Monday August 5, 2024
+
+Origin:
+This text file is named: nicegui_docs.txt and located at: https://github.com/cleesmith/NiceGUI-primer
+
 ____________________________________________________________
-Section: 1. URL: http://localhost:8080/documentation/
+Section: 1. URL: https://nicegui.io/documentation/
 
 
 Installation Features Demos Documentation Examples Why? search
@@ -125,7 +130,7 @@ Write automated UI tests which run in a headless browser (slow) or fully simulat
 
 
 ____________________________________________________________
-Section: 2. URL: http://localhost:8080/documentation/section_text_elements
+Section: 2. URL: https://nicegui.io/documentation/section_text_elements
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -297,7 +302,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 3. URL: http://localhost:8080/documentation/section_controls
+Section: 3. URL: https://nicegui.io/documentation/section_controls
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -893,7 +898,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 4. URL: http://localhost:8080/documentation/section_audiovisual_elements
+Section: 4. URL: https://nicegui.io/documentation/section_audiovisual_elements
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -1097,7 +1102,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 5. URL: http://localhost:8080/documentation/section_data_elements
+Section: 5. URL: https://nicegui.io/documentation/section_data_elements
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -1595,7 +1600,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 6. URL: http://localhost:8080/documentation/section_binding_properties
+Section: 6. URL: https://nicegui.io/documentation/section_binding_properties
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -1736,7 +1741,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 7. URL: http://localhost:8080/documentation/section_page_layout
+Section: 7. URL: https://nicegui.io/documentation/section_page_layout
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -2365,7 +2370,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 8. URL: http://localhost:8080/documentation/section_styling_appearance
+Section: 8. URL: https://nicegui.io/documentation/section_styling_appearance
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -2669,7 +2674,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 9. URL: http://localhost:8080/documentation/section_action_events
+Section: 9. URL: https://nicegui.io/documentation/section_action_events
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -3075,7 +3080,7 @@ ui.run(storage_secret='private key to secure the browser session cookie')
 
 
 ____________________________________________________________
-Section: 10. URL: http://localhost:8080/documentation/section_pages_routing
+Section: 10. URL: https://nicegui.io/documentation/section_pages_routing
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -3376,7 +3381,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 11. URL: http://localhost:8080/documentation/section_configuration_deployment
+Section: 11. URL: https://nicegui.io/documentation/section_configuration_deployment
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -3688,7 +3693,7 @@ Data Privacy: We take your privacy very serious.
 
 
 ____________________________________________________________
-Section: 12. URL: http://localhost:8080/documentation/section_testing
+Section: 12. URL: https://nicegui.io/documentation/section_testing
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -3768,7 +3773,7 @@ screen.should_contain('Log in')
 
 
 ____________________________________________________________
-Section: 13. URL: http://localhost:8080/documentation/label
+Section: 13. URL: https://nicegui.io/documentation/label
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -4152,7 +4157,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 14. URL: http://localhost:8080/documentation/link
+Section: 14. URL: https://nicegui.io/documentation/link
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -4575,7 +4580,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 15. URL: http://localhost:8080/documentation/chat_message
+Section: 15. URL: https://nicegui.io/documentation/chat_message
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -4949,7 +4954,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 16. URL: http://localhost:8080/documentation/element
+Section: 16. URL: https://nicegui.io/documentation/element
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -5355,7 +5360,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 17. URL: http://localhost:8080/documentation/markdown
+Section: 17. URL: https://nicegui.io/documentation/markdown
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -5795,7 +5800,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 18. URL: http://localhost:8080/documentation/restructured_text
+Section: 18. URL: https://nicegui.io/documentation/restructured_text
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -6230,7 +6235,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 19. URL: http://localhost:8080/documentation/mermaid
+Section: 19. URL: https://nicegui.io/documentation/mermaid
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -6636,7 +6641,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 20. URL: http://localhost:8080/documentation/html
+Section: 20. URL: https://nicegui.io/documentation/html
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -7011,7 +7016,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 21. URL: http://localhost:8080/documentation/element_filter
+Section: 21. URL: https://nicegui.io/documentation/element_filter
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -7170,7 +7175,7 @@ Filter elements which have a specific match in the parent hierarchy.
 
 
 ____________________________________________________________
-Section: 22. URL: http://localhost:8080/documentation/image
+Section: 22. URL: https://nicegui.io/documentation/image
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -7620,7 +7625,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 23. URL: http://localhost:8080/documentation/button
+Section: 23. URL: https://nicegui.io/documentation/button
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -8196,7 +8201,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 24. URL: http://localhost:8080/documentation/button_group
+Section: 24. URL: https://nicegui.io/documentation/button_group
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -8550,7 +8555,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 25. URL: http://localhost:8080/documentation/button_dropdown
+Section: 25. URL: https://nicegui.io/documentation/button_dropdown
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -9075,7 +9080,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 26. URL: http://localhost:8080/documentation/badge
+Section: 26. URL: https://nicegui.io/documentation/badge
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -9441,7 +9446,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 27. URL: http://localhost:8080/documentation/chip
+Section: 27. URL: https://nicegui.io/documentation/chip
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -10025,7 +10030,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 28. URL: http://localhost:8080/documentation/toggle
+Section: 28. URL: https://nicegui.io/documentation/toggle
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -10461,7 +10466,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 29. URL: http://localhost:8080/documentation/radio
+Section: 29. URL: https://nicegui.io/documentation/radio
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -10917,7 +10922,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 30. URL: http://localhost:8080/documentation/select
+Section: 30. URL: https://nicegui.io/documentation/select
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -11444,7 +11449,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 31. URL: http://localhost:8080/documentation/checkbox
+Section: 31. URL: https://nicegui.io/documentation/checkbox
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -11922,7 +11927,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 32. URL: http://localhost:8080/documentation/switch
+Section: 32. URL: https://nicegui.io/documentation/switch
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -12400,7 +12405,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 33. URL: http://localhost:8080/documentation/slider
+Section: 33. URL: https://nicegui.io/documentation/slider
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -12878,7 +12883,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 34. URL: http://localhost:8080/documentation/range
+Section: 34. URL: https://nicegui.io/documentation/range
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -13360,7 +13365,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 35. URL: http://localhost:8080/documentation/joystick
+Section: 35. URL: https://nicegui.io/documentation/joystick
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -13691,7 +13696,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 36. URL: http://localhost:8080/documentation/input
+Section: 36. URL: https://nicegui.io/documentation/input
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -14226,7 +14231,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 37. URL: http://localhost:8080/documentation/textarea
+Section: 37. URL: https://nicegui.io/documentation/textarea
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -14700,7 +14705,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 38. URL: http://localhost:8080/documentation/codemirror
+Section: 38. URL: https://nicegui.io/documentation/codemirror
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -15169,7 +15174,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 39. URL: http://localhost:8080/documentation/number
+Section: 39. URL: https://nicegui.io/documentation/number
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -15686,7 +15691,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 40. URL: http://localhost:8080/documentation/knob
+Section: 40. URL: https://nicegui.io/documentation/knob
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -16124,7 +16129,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 41. URL: http://localhost:8080/documentation/color_input
+Section: 41. URL: https://nicegui.io/documentation/color_input
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -16559,7 +16564,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 42. URL: http://localhost:8080/documentation/color_picker
+Section: 42. URL: https://nicegui.io/documentation/color_picker
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -16945,7 +16950,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 43. URL: http://localhost:8080/documentation/date
+Section: 43. URL: https://nicegui.io/documentation/date
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -17418,7 +17423,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 44. URL: http://localhost:8080/documentation/time
+Section: 44. URL: https://nicegui.io/documentation/time
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -17871,7 +17876,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 45. URL: http://localhost:8080/documentation/upload
+Section: 45. URL: https://nicegui.io/documentation/upload
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -18326,7 +18331,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 46. URL: http://localhost:8080/documentation/teleport
+Section: 46. URL: https://nicegui.io/documentation/teleport
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -18692,7 +18697,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 47. URL: http://localhost:8080/documentation/interactive_image
+Section: 47. URL: https://nicegui.io/documentation/interactive_image
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -19239,7 +19244,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 48. URL: http://localhost:8080/documentation/audio
+Section: 48. URL: https://nicegui.io/documentation/audio
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -19652,7 +19657,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 49. URL: http://localhost:8080/documentation/video
+Section: 49. URL: https://nicegui.io/documentation/video
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -20046,7 +20051,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 50. URL: http://localhost:8080/documentation/icon
+Section: 50. URL: https://nicegui.io/documentation/icon
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -20487,7 +20492,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 51. URL: http://localhost:8080/documentation/avatar
+Section: 51. URL: https://nicegui.io/documentation/avatar
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -20819,7 +20824,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 52. URL: http://localhost:8080/documentation/table
+Section: 52. URL: https://nicegui.io/documentation/table
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -21727,7 +21732,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 53. URL: http://localhost:8080/documentation/aggrid
+Section: 53. URL: https://nicegui.io/documentation/aggrid
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -22429,7 +22434,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 54. URL: http://localhost:8080/documentation/echart
+Section: 54. URL: https://nicegui.io/documentation/echart
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -22931,7 +22936,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 55. URL: http://localhost:8080/documentation/pyplot
+Section: 55. URL: https://nicegui.io/documentation/pyplot
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -23246,7 +23251,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 56. URL: http://localhost:8080/documentation/matplotlib
+Section: 56. URL: https://nicegui.io/documentation/matplotlib
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -23558,7 +23563,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 57. URL: http://localhost:8080/documentation/line_plot
+Section: 57. URL: https://nicegui.io/documentation/line_plot
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -23902,7 +23907,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 58. URL: http://localhost:8080/documentation/plotly
+Section: 58. URL: https://nicegui.io/documentation/plotly
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -24322,7 +24327,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 59. URL: http://localhost:8080/documentation/linear_progress
+Section: 59. URL: https://nicegui.io/documentation/linear_progress
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -24692,7 +24697,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 60. URL: http://localhost:8080/documentation/circular_progress
+Section: 60. URL: https://nicegui.io/documentation/circular_progress
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -25084,7 +25089,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 61. URL: http://localhost:8080/documentation/spinner
+Section: 61. URL: https://nicegui.io/documentation/spinner
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -25400,7 +25405,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 62. URL: http://localhost:8080/documentation/scene
+Section: 62. URL: https://nicegui.io/documentation/scene
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -25976,7 +25981,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 63. URL: http://localhost:8080/documentation/leaflet
+Section: 63. URL: https://nicegui.io/documentation/leaflet
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -26536,7 +26541,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 64. URL: http://localhost:8080/documentation/tree
+Section: 64. URL: https://nicegui.io/documentation/tree
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -26948,7 +26953,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 65. URL: http://localhost:8080/documentation/log
+Section: 65. URL: https://nicegui.io/documentation/log
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -27301,7 +27306,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 66. URL: http://localhost:8080/documentation/editor
+Section: 66. URL: https://nicegui.io/documentation/editor
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -27729,7 +27734,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 67. URL: http://localhost:8080/documentation/code
+Section: 67. URL: https://nicegui.io/documentation/code
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -28101,7 +28106,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 68. URL: http://localhost:8080/documentation/json_editor
+Section: 68. URL: https://nicegui.io/documentation/json_editor
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -28487,7 +28492,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 69. URL: http://localhost:8080/documentation/storage
+Section: 69. URL: https://nicegui.io/documentation/storage
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -28647,7 +28652,7 @@ You can change this to an indentation of 2 spaces by setting app.storage.general
 
 
 ____________________________________________________________
-Section: 70. URL: http://localhost:8080/documentation/page
+Section: 70. URL: https://nicegui.io/documentation/page
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -28785,7 +28790,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 71. URL: http://localhost:8080/documentation/card
+Section: 71. URL: https://nicegui.io/documentation/card
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -29158,7 +29163,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 72. URL: http://localhost:8080/documentation/column
+Section: 72. URL: https://nicegui.io/documentation/column
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -29489,7 +29494,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 73. URL: http://localhost:8080/documentation/row
+Section: 73. URL: https://nicegui.io/documentation/row
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -29802,7 +29807,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 74. URL: http://localhost:8080/documentation/grid
+Section: 74. URL: https://nicegui.io/documentation/grid
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -30165,7 +30170,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 75. URL: http://localhost:8080/documentation/list
+Section: 75. URL: https://nicegui.io/documentation/list
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -31503,7 +31508,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 76. URL: http://localhost:8080/documentation/expansion
+Section: 76. URL: https://nicegui.io/documentation/expansion
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -32043,7 +32048,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 77. URL: http://localhost:8080/documentation/scroll_area
+Section: 77. URL: https://nicegui.io/documentation/scroll_area
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -32417,7 +32422,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 78. URL: http://localhost:8080/documentation/separator
+Section: 78. URL: https://nicegui.io/documentation/separator
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -32727,7 +32732,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 79. URL: http://localhost:8080/documentation/space
+Section: 79. URL: https://nicegui.io/documentation/space
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -33054,7 +33059,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 80. URL: http://localhost:8080/documentation/skeleton
+Section: 80. URL: https://nicegui.io/documentation/skeleton
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -33133,7 +33138,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 81. URL: http://localhost:8080/documentation/splitter
+Section: 81. URL: https://nicegui.io/documentation/splitter
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -33610,7 +33615,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 82. URL: http://localhost:8080/documentation/tabs
+Section: 82. URL: https://nicegui.io/documentation/tabs
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -35054,7 +35059,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 83. URL: http://localhost:8080/documentation/stepper
+Section: 83. URL: https://nicegui.io/documentation/stepper
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -35483,7 +35488,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 84. URL: http://localhost:8080/documentation/timeline
+Section: 84. URL: https://nicegui.io/documentation/timeline
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -35805,7 +35810,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 85. URL: http://localhost:8080/documentation/carousel
+Section: 85. URL: https://nicegui.io/documentation/carousel
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -36192,7 +36197,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 86. URL: http://localhost:8080/documentation/pagination
+Section: 86. URL: https://nicegui.io/documentation/pagination
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -36637,7 +36642,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 87. URL: http://localhost:8080/documentation/menu
+Section: 87. URL: https://nicegui.io/documentation/menu
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -37036,7 +37041,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 88. URL: http://localhost:8080/documentation/context_menu
+Section: 88. URL: https://nicegui.io/documentation/context_menu
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -37360,7 +37365,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 89. URL: http://localhost:8080/documentation/tooltip
+Section: 89. URL: https://nicegui.io/documentation/tooltip
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -37799,7 +37804,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 90. URL: http://localhost:8080/documentation/notify
+Section: 90. URL: https://nicegui.io/documentation/notify
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -37875,7 +37880,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 91. URL: http://localhost:8080/documentation/notification
+Section: 91. URL: https://nicegui.io/documentation/notification
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -38259,7 +38264,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 92. URL: http://localhost:8080/documentation/dialog
+Section: 92. URL: https://nicegui.io/documentation/dialog
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -38701,7 +38706,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 93. URL: http://localhost:8080/documentation/query
+Section: 93. URL: https://nicegui.io/documentation/query
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -38810,7 +38815,7 @@ param replace: semicolon-separated list of styles to use instead of existing one
 
 
 ____________________________________________________________
-Section: 94. URL: http://localhost:8080/documentation/colors
+Section: 94. URL: https://nicegui.io/documentation/colors
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -39118,7 +39123,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 95. URL: http://localhost:8080/documentation/dark_mode
+Section: 95. URL: https://nicegui.io/documentation/dark_mode
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -39511,7 +39516,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 96. URL: http://localhost:8080/documentation/add_style
+Section: 96. URL: https://nicegui.io/documentation/add_style
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -39598,7 +39603,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 97. URL: http://localhost:8080/documentation/timer
+Section: 97. URL: https://nicegui.io/documentation/timer
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -39966,7 +39971,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 98. URL: http://localhost:8080/documentation/keyboard
+Section: 98. URL: https://nicegui.io/documentation/keyboard
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -40323,7 +40328,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 99. URL: http://localhost:8080/documentation/refreshable
+Section: 99. URL: https://nicegui.io/documentation/refreshable
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -40578,7 +40583,7 @@ It will combine the arguments passed to the function with the arguments passed t
 
 
 ____________________________________________________________
-Section: 100. URL: http://localhost:8080/documentation/generic_events
+Section: 100. URL: https://nicegui.io/documentation/generic_events
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -40740,7 +40745,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 101. URL: http://localhost:8080/documentation/run_javascript
+Section: 101. URL: https://nicegui.io/documentation/run_javascript
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -40828,7 +40833,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 102. URL: http://localhost:8080/documentation/clipboard
+Section: 102. URL: https://nicegui.io/documentation/clipboard
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -40887,7 +40892,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 103. URL: http://localhost:8080/documentation/page_layout
+Section: 103. URL: https://nicegui.io/documentation/page_layout
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -42490,7 +42495,7 @@ Visibility
 
 
 ____________________________________________________________
-Section: 104. URL: http://localhost:8080/documentation/page_title
+Section: 104. URL: https://nicegui.io/documentation/page_title
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -42523,7 +42528,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 105. URL: http://localhost:8080/documentation/navigate
+Section: 105. URL: https://nicegui.io/documentation/navigate
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -42583,7 +42588,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 106. URL: http://localhost:8080/documentation/download
+Section: 106. URL: https://nicegui.io/documentation/download
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -42631,7 +42636,7 @@ ui.run()
 
 
 ____________________________________________________________
-Section: 107. URL: http://localhost:8080/documentation/run
+Section: 107. URL: https://nicegui.io/documentation/run
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -42772,7 +42777,7 @@ ui.run(show_welcome_message=False)
 
 
 ____________________________________________________________
-Section: 108. URL: http://localhost:8080/documentation/project_structure
+Section: 108. URL: https://nicegui.io/documentation/project_structure
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -42961,7 +42966,7 @@ def user(user: User) -> User:
 
 
 ____________________________________________________________
-Section: 109. URL: http://localhost:8080/documentation/screen
+Section: 109. URL: https://nicegui.io/documentation/screen
 
 menu
 Installation Features Demos Documentation Examples Why? search
@@ -43170,7 +43175,7 @@ Wait until the page contains the given text or the given condition is met.
 
 
 ____________________________________________________________
-Section: 110. URL: http://localhost:8080/documentation/user
+Section: 110. URL: https://nicegui.io/documentation/user
 
 menu
 Installation Features Demos Documentation Examples Why? search
